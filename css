@@ -1,0 +1,11 @@
+html,body{margin: 0%;padding: 0%;background-color: rgba(0, 0, 0, 0.247);}
+.head{background-color: rgba(82, 80, 80, 0.788);
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+.logo{width: 60px;cursor: pointer;}
+.menu li{display: inline; margin: 8px;font-size: 150%;cursor: pointer;}
+h1{color: rgb(0, 80, 13);font-size: 300%;}
+p{font-size: 200%;}
+a{font-size: 250%;position: center;color: rgb(97, 6, 6);}
